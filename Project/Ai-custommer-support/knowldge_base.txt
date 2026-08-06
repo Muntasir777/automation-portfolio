@@ -1,0 +1,267 @@
+# Muntasir AI Automation - Business Knowledge Base
+
+## Company Overview
+
+Muntasir AI Automation is an AI automation company that helps businesses save time, reduce manual work, and increase revenue through intelligent workflow automation. Our mission is to replace repetitive tasks with reliable AI-powered systems so business owners can focus on growth instead of administration.
+
+We primarily work with startups, agencies, clinics, educational institutions, e-commerce businesses, and local service companies.
+
+Our automations are designed to reduce human error, improve customer response time, and eliminate repetitive manual processes.
+
+------------------------------------------------------------
+
+## Services
+
+We currently offer the following automation services:
+
+1. AI Customer Support Chatbot
+2. Lead Capture Automation
+3. Appointment Booking Automation
+4. Email Automation
+5. CRM Integration
+6. Google Sheets Automation
+7. WhatsApp Business Automation
+8. AI Document Processing
+9. Internal Workflow Automation
+10. Custom AI Automation Solutions
+
+------------------------------------------------------------
+
+## AI Customer Support Chatbot
+
+Our AI chatbot answers customer questions 24 hours a day.
+
+Features include:
+
+- Answers frequently asked questions
+- Understands natural language
+- Provides instant responses
+- Searches company knowledge base
+- Collects customer information
+- Books appointments
+- Sends qualified leads to the sales team
+- Escalates complex questions to a human representative
+
+Benefits:
+
+- Reduces customer waiting time
+- Saves employee working hours
+- Improves customer satisfaction
+- Never gets tired
+- Available 24/7
+
+------------------------------------------------------------
+
+## Lead Capture Automation
+
+The lead capture system automatically collects customer information.
+
+Information collected includes:
+
+- Name
+- Email
+- Phone number
+- Company name
+- Budget
+- Service requested
+- Additional notes
+
+The system automatically:
+
+- Validates email addresses
+- Detects duplicate leads
+- Generates Lead IDs
+- Stores leads in Google Sheets
+- Qualifies leads
+- Sends notification emails for high-priority leads
+
+------------------------------------------------------------
+
+## Lead Qualification
+
+High Priority:
+
+Budget above $5,000
+
+Business owner
+
+Ready to buy
+
+Needs implementation within 30 days
+
+Medium Priority:
+
+Budget between $1,000 and $5,000
+
+Interested in consultation
+
+Future implementation
+
+Low Priority:
+
+Budget below $1,000
+
+Only researching
+
+Student projects
+
+General curiosity
+
+------------------------------------------------------------
+
+## Appointment Booking
+
+Customers can schedule meetings.
+
+Available meeting types:
+
+30-minute Discovery Call
+
+60-minute Business Consultation
+
+90-minute Automation Planning Session
+
+Meetings are available Monday through Friday.
+
+Business Hours:
+
+9:00 AM to 6:00 PM
+
+Timezone:
+
+Bangladesh Standard Time (BST)
+
+------------------------------------------------------------
+
+## Pricing
+
+Basic Automation Package
+
+Starting from $300
+
+Professional Automation Package
+
+Starting from $800
+
+Enterprise Automation Package
+
+Custom pricing based on project requirements.
+
+Every project receives a free initial consultation.
+
+------------------------------------------------------------
+
+## Technologies We Use
+
+n8n
+
+Google Gemini AI
+
+OpenAI
+
+Google Sheets
+
+Gmail
+
+Google Drive
+
+Vector Databases
+
+REST APIs
+
+Webhook Integrations
+
+GitHub
+
+Docker
+
+------------------------------------------------------------
+
+## Industries We Serve
+
+Healthcare
+
+Education
+
+Restaurants
+
+Real Estate
+
+Accounting Firms
+
+Marketing Agencies
+
+Law Firms
+
+E-commerce Stores
+
+Consulting Companies
+
+Small Businesses
+
+------------------------------------------------------------
+
+## Frequently Asked Questions
+
+Q: What is AI Automation?
+
+AI automation combines artificial intelligence with workflow automation to complete repetitive business tasks automatically.
+
+Q: How long does a project take?
+
+Most projects are completed within one to three weeks depending on complexity.
+
+Q: Do you provide support?
+
+Yes. Every project includes post-delivery support.
+
+Q: Can existing software be integrated?
+
+Yes. We integrate with many third-party applications through APIs and automation platforms.
+
+Q: Do you build custom solutions?
+
+Yes. Every business has unique requirements, so custom automation is one of our primary services.
+
+Q: Is my data secure?
+
+Yes. We follow industry best practices and only access the information necessary to build and maintain automations.
+
+------------------------------------------------------------
+
+## Contact Information
+
+Business Name:
+Muntasir AI Automation
+
+Email:
+contact@muntasiraiautomation.com
+
+Working Days:
+Monday to Friday
+
+Working Hours:
+9:00 AM to 6:00 PM (BST)
+
+Consultation:
+Free initial consultation
+
+------------------------------------------------------------
+
+## Response Rules for the AI Assistant
+
+Always answer politely.
+
+Answer only using information found in this knowledge base.
+
+If the answer is not available, politely say:
+
+"I don't have enough information to answer that. I can connect you with a human representative."
+
+Never invent pricing.
+
+Never invent business policies.
+
+Never guess unavailable information.
+
+Always encourage customers to book a consultation if they need a custom automation solution.
